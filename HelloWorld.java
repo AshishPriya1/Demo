@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String args[]) {
-        System.out.println("Jenkings pipeline!");
+        System.out.println("My First Pipeline");
     }
 }
